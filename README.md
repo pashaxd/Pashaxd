@@ -13,7 +13,7 @@
 `Flutter` `Dart` `Firebase` `Bloc/Riverpod` `Hive` `Git`  
 
 ### 📊 Статистика:  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=radical)](https://github.com/pashaxd)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact&theme=radical)](https://github.com/pashaxd)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pashaxd&show_icons=true&theme=radical)](https://github.com/pashaxd)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pashaxd&layout=compact&theme=radical)](https://github.com/pashaxd)  
 
 ⭐ **Спасибо за визит!**  
