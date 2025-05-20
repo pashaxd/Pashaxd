@@ -5,8 +5,8 @@
 📫 Как связаться: [телеграм/@qazumi6] | [почта](pgriskevic75@gmail.com)  
 
 ### 🔥 Мои ключевые проекты:  
-- [**Приложение для трекинга задач**]((https://github.com/pashaxd/task_organizer)) – Bloc, Firebase, Hive  
-- [**Погодное приложение**](https://github.com/pashaxd/weather_clean) – OpenWeather API, Bloc, анимации  
+- [**Приложение для трекинга задач**](https://github.com/pashaxd/task_organizer) – Bloc, Firebase, Hive  
+- [**Погодное приложение**](https://github.com/pashaxd/weather_app_clean) – OpenWeather API, Bloc, анимации  
 
 ### 🛠️ Мой стек:  
 `Flutter` `Dart` `Firebase` `Bloc/Riverpod` `Hive` `Git`  
