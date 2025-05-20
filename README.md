@@ -1,8 +1,8 @@
-### 👋 Привет! Я [Ваше имя], Flutter-разработчик  
+### 👋 Привет! Я Паша, Flutter-разработчик  
 
 💻 Пишу мобильные приложения на Flutter уже 1+ год  
 🚀 Увлекаюсь clean code, анимациями и производительностью  
-📫 Как связаться: [телеграм/@ник](https://t.me/...) | [почта](mailto:...)  
+📫 Как связаться: [телеграм/@qazumi6] | [почта](pgriskevic75@gmail.com)  
 
 ### 🔥 Мои ключевые проекты:  
 - [**Приложение для трекинга задач**](https://github.com/.../) – Bloc, Firebase, Hive  
@@ -13,7 +13,7 @@
 `Flutter` `Dart` `Firebase` `Bloc/Riverpod` `Hive` `Git`  
 
 ### 📊 Статистика:  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=radical)](https://github.com/{username})  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact&theme=radical)](https://github.com/{username})  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=radical)](https://github.com/{pashaxd})  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact&theme=radical)](https://github.com/{pashaxd})  
 
 ⭐ **Спасибо за визит!**  
