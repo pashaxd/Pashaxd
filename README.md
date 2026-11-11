@@ -1,15 +1,11 @@
-### 👋 Привет! Я Паша, Flutter-разработчик  
+### 👋 Привет! Я Паша, Мобильный-разработчик  
 
-💻 Пишу мобильные приложения на Flutter уже 1+ год  
+💻 Пишу мобильные приложения на Flutter/Kotlin/Swift уже 2.5+ года  
 🚀 Увлекаюсь clean code, анимациями и производительностью  
 📫 Как связаться: [телеграм](https://t.me/qazumi6) | почта: pgriskevic75@gmail.com 
 
-### 🔥 Мои ключевые проекты:  
-- [**Приложение для трекинга задач**](https://github.com/pashaxd/task_organizer) – Bloc, Firebase, Hive  
-- [**Погодное приложение**](https://github.com/pashaxd/weather_app_clean) – OpenWeather API, Bloc, анимации  
-
 ### 🛠️ Мой стек:  
-`Flutter` `Dart` `Firebase` `Bloc/Riverpod` `Hive` `Git`  
+`Flutter` `Dart` `Firebase` `Bloc` `Hive` `Git` `Kotlin` `Jetpack Compose` `Retrofit ``SwiftUi`
 
 ### 📊 Статистика:  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pashaxd&show_icons=true&theme=radical)](https://github.com/pashaxd)  
