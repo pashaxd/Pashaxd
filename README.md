@@ -5,7 +5,7 @@
 📫 Как связаться: [телеграм](https://t.me/qazumi6) | почта: pgriskevic75@gmail.com 
 
 ### 🛠️ Мой стек:  
-`Flutter` `Dart` `Firebase` `Bloc` `Hive` `Git` `Kotlin` `Jetpack Compose` `Retrofit ``SwiftUi`
+`Flutter` `Dart` `Firebase` `Bloc` `Hive` `Git` `Kotlin` `Jetpack Compose` `Retrofit` `SwiftUi`
 
 ### 📊 Статистика:  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pashaxd&show_icons=true&theme=radical)](https://github.com/pashaxd)  
